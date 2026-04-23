@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Atom_Feather.aternos.me:34126",
+    "ip": "Atom_Feather.aternos.me",
     "port": 34126,
     "version": "",
     "try-creative": false
